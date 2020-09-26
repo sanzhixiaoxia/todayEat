@@ -1,0 +1,17 @@
+.text-con {
+	text-align: center;
+}
+
+#load_img {
+	/* position: absolute; */
+	z-index: -1;
+	padding-top: 100px;
+	width: 300px;
+}
+
+#show_msg {
+	padding-top: 200px;
+	padding-left: 20%;
+	padding-right: 20%;
+	text-align: center;
+}
